@@ -1,2 +1,4 @@
 IP Semester 1 : 3.85
 IP Semester 2 : 3.73
+
+IP Semester 3 : 3.42
